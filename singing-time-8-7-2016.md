@@ -39,4 +39,4 @@ The Lord Gave Me a Temple (153)
 
 * Follow [this blog post](http://ocdprimarychorister.blogspot.com/2013/09/song-lord-gave-me-temple.html)
   For directions on how to teach this song.
-* Use [lord.gave.me.a.temple.flipchart.pdf](../resources/lord.gave.me.a.temple.flipchart.pdf)
+* Use [lord.gave.me.a.temple.flipchart.pdf](resources/lord.gave.me.a.temple.flipchart.pdf)
