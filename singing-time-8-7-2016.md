@@ -8,7 +8,7 @@ Theme: My Body Is a Temple of God
 |--------------|----------------------------------|------|
 | Prelude      | At the discretion of the pianist |      |
 |              |                                  |      |
-| Opening      | Happy Happy Birthday             | 284  |
+| Opening      | I Will Follow God's Plan         | 164  |
 | Birthday     | Happy Happy Birthday             | 284  |
 | Welcome      | We Welcome You                   | 256  |
 |              |                                  |      |
@@ -21,7 +21,6 @@ Theme: My Body Is a Temple of God
 |              | If You're Happy                  | 266  |
 |              |                                  |      |
 | Closing      | My Heavenly Father Loves Me      | 228  |
-|              |                                  |      |
 
 The Lord Gave Me a Temple (153)
 -------------------------------
@@ -38,3 +37,6 @@ The Lord Gave Me a Temple (153)
 > On resurrection morning, I'll take my body bright.  
 > And in celestial glory forever live in light.
 
+* Follow [this blog post](http://ocdprimarychorister.blogspot.com/2013/09/song-lord-gave-me-temple.html)
+  For directions on how to teach this song.
+* Use [lord.gave.me.a.temple.flipchart.pdf](../resources/lord.gave.me.a.temple.flipchart.pdf)
