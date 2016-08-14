@@ -33,7 +33,7 @@ The Lord Gave Me a Temple (153)
 >
 > Verse 2  
 > If I keep my body clean and pure and habit free,  
-> I may in Father's temple claim blessings promies me.  
+> I may in Father's temple claim blessings promised me.  
 > On resurrection morning, I'll take my body bright.  
 > And in celestial glory forever live in light.
 
