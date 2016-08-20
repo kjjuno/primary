@@ -38,5 +38,5 @@ The Lord Gave Me a Temple (153)
 > And in celestial glory forever live in light.
 
 * Put all pictures and words on the board
-* Have children remove pictures or words from the board as we Singing
+* Have children remove pictures or words from the board as we are singing
 * Use the dice roller to let children choose different styles to sing in
