@@ -5,15 +5,16 @@ Singing Time - Oct 30, 2016
 |--------------|----------------------------------|------|-----------|
 | Prelude      | At the discretion of the pianist |      | Song Book |
 |              |                                  |      |           |
-| Opening      | I am like a star                 | 163  | Song Book |
+| Opening      | A Happy Family                   | 198  | Song Book |
 | Birthday     | Happy Happy Birthday             | 284  | Song Book |
 | Welcome      | Hello Song                       | 260  | Song Book |
 |              |                                  |      |           |
 | Singing Time | Away in a Manger                 | 42   | Song Book |
+|              | A Song of Thanks                 | 20   | Song Book |
 |              |                                  |      |           |
-| Wiggle Songs | Once There Was a Snoman          | 249  | Song Book |
+| Wiggle Songs | Book of Mormon Stories           | 118  | Song Book |
 |              |                                  |      |           |
-| Closing      | Families Can Be Together Forever | 188  | Song Book |
+| Closing      | Search, Ponder, and Pray         | 188  | Song Book |
 
 Away in a Manger
 ----------------
