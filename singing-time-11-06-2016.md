@@ -42,3 +42,11 @@ Away in a Manger
 > Close by me forever, and love me, I pray.  
 > Bless all the dear children in they tender care,  
 > And fit us for heaven, to live with thee there.
+
+A Song of Thanks
+----------------
+
+> Thank thee for the world so sweet;  
+> Thank thee for the food we eat;  
+> Thank thee for the birds that sing;  
+> Thank the, God, for everything!
