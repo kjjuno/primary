@@ -10,7 +10,6 @@ Singing Time - Oct 30, 2016
 | Welcome      | Hello Song                       | 260  | Song Book |
 |              |                                  |      |           |
 | Singing Time | Away in a Manger                 | 42   | Song Book |
-|              | A Song of Thanks                 | 20   | Song Book |
 |              |                                  |      |           |
 | Wiggle Songs | Book of Mormon Stories           | 118  | Song Book |
 |              |                                  |      |           |
@@ -42,11 +41,3 @@ Away in a Manger
 > Close by me forever, and love me, I pray.  
 > Bless all the dear children in they tender care,  
 > And fit us for heaven, to live with thee there.
-
-A Song of Thanks
-----------------
-
-> Thank thee for the world so sweet;  
-> Thank thee for the food we eat;  
-> Thank thee for the birds that sing;  
-> Thank the, God, for everything!
