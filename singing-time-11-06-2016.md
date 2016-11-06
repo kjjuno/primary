@@ -19,26 +19,26 @@ Singing Time - Oct 30, 2016
 Away in a Manger
 ----------------
 
-> *Verse 1*
-> Away in a manger, no crib for his bed,
-> The little Lord Jesus laid down his sweet head;
-> The stars in theheavens looked down where he lay,
+> *Verse 1*  
+> Away in a manger, no crib for his bed,  
+> The little Lord Jesus laid down his sweet head;  
+> The stars in theheavens looked down where he lay,  
 > The little Lord Jesus, asleep on the hay.
-
-> *Chrous*
-> Asleep, (asleep), asleep, (asleep)
-> Asleep, the Savior in a stall!
-> Asleep, (asleep), asleep, (asleep)
+>
+> *Chrous*  
+> Asleep, (asleep), asleep, (asleep)  
+> Asleep, the Savior in a stall!  
+> Asleep, (asleep), asleep, (asleep)  
 > Asleep, the lord of all.
-
-> *Verse 2*
-> The cattle are lowing, the poor baby wakes;
-> But little Lord Jesus, no crying he makes.
-> I love thee, Lord Jesus; look down from the sky
+>
+> *Verse 2*  
+> The cattle are lowing, the poor baby wakes;  
+> But little Lord Jesus, no crying he makes.  
+> I love thee, Lord Jesus; look down from the sky  
 > And stay by my cradle till morning is nigh.
-
-> *Verse 3*
-> Be near me, Lord Jesus; I ask thee to stay
-> Close by me forever, and love me, I pray.
-> Bless all the dear children in they tender care,
+>
+> *Verse 3*  
+> Be near me, Lord Jesus; I ask thee to stay  
+> Close by me forever, and love me, I pray.  
+> Bless all the dear children in they tender care,  
 > And fit us for heaven, to live with thee there.
