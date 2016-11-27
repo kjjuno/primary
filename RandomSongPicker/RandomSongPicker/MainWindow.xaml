@@ -1,0 +1,61 @@
+﻿<Window x:Class="RandomSongPicker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RandomSongPicker"
+        xmlns:converters="clr-namespace:RandomSongPicker.Converters"
+        mc:Ignorable="d"
+		DataContext="{Binding Source={StaticResource Locator}, Path=Main}"
+        Title="{Binding SelectedSong}" Height="300" Width="400">
+	<Window.Resources>
+		<BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+		<converters:InvertedBooleanToVisibilityConverter x:Key="InvertedBooleanToVisibilityConverter" />
+	</Window.Resources>
+	<Grid>
+		<Viewbox>
+			<Grid Width="400" Height="300">
+				<Grid.RowDefinitions>
+					<RowDefinition Height="Auto" />
+					<RowDefinition Height="*" />
+				</Grid.RowDefinitions>
+				<Button Grid.Row="0" Content="ROLL!" FontSize="50" Visibility="{Binding IsRollButtonVisible, Converter={StaticResource BooleanToVisibilityConverter}}"
+						Command="{Binding RollCommand}"
+						CommandParameter="{Binding ElementName=RandomLetterBox}"/>
+				<Viewbox Grid.Row="1">
+					<Grid>
+						<ItemsControl ItemsSource="{Binding Letters}" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="{Binding IsTextVisible, Converter={StaticResource BooleanToVisibilityConverter}}">
+							<ItemsControl.ItemsPanel>
+								<ItemsPanelTemplate>
+									<StackPanel Orientation="Horizontal" />
+								</ItemsPanelTemplate>
+							</ItemsControl.ItemsPanel>
+							<ItemsControl.ItemTemplate>
+								<DataTemplate>
+									<Grid>
+										<TextBlock Text="{Binding Letter}" Visibility="{Binding IsRevealed, Converter={StaticResource BooleanToVisibilityConverter}}" />
+										<TextBlock Text="_" Visibility="{Binding IsRevealed, Converter={StaticResource InvertedBooleanToVisibilityConverter}}" Margin="1,0,1,0 " />
+									</Grid>
+								</DataTemplate>
+							</ItemsControl.ItemTemplate>
+						</ItemsControl>
+						<TextBlock x:Name="RandomLetterBox" Text="{Binding CurrentLetter}" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="{Binding IsRandomLetterVisible, Converter={StaticResource BooleanToVisibilityConverter}}" />
+					</Grid>
+				</Viewbox>
+			</Grid>
+		</Viewbox>
+		<ListBox ItemsSource="{Binding SearchResults}" SelectedItem="{Binding SelectedSong}"
+				 FontSize="60" Visibility="{Binding IsSongListVisible, Converter={StaticResource BooleanToVisibilityConverter}}">
+			<ListBox.ItemTemplate>
+				<DataTemplate>
+					<StackPanel Orientation="Horizontal">
+						<TextBlock Text="{Binding Name}" />
+						<TextBlock Text=" (#"/>
+						<TextBlock Text="{Binding Page}"/>
+						<TextBlock Text=")"/>
+					</StackPanel>
+				</DataTemplate>
+			</ListBox.ItemTemplate>
+		</ListBox>
+	</Grid>
+</Window>
