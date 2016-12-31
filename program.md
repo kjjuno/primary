@@ -1,16 +1,15 @@
 Primary Program 2017
 ====================
 
+Theme song: Ring Around My Finger
+
 | Month     | Song                             | Page | Source    |
 |-----------|----------------------------------|------|-----------|
-| January   | If I Listen with My Heart        | 28   | Extra     |
-| February  | I Will Follow God's Plan         | 164  | Song Book |
+| January   | As a Child of God                |      | Extra     |
+| February  | Choose the Right Way             | 160  | Song Book |
 | March     | Stand for the Right              | 159  | Song Book |
-| April     | Scripture Power                  |      | Extra     |
-|           | 3rd Article of Faith             | 123  | Song Book |
-| May       | Praise to the Man (1,3)          | 27   | Hymn Book |
-| June      | 4th Article of Faith             | 124  | Song Book |
-|           | Beautiful Savior                 | 62   | Song Book |
-| July      | I Love to See the Temple         | 95   | Song Book |
-| August    | The Lord Gave Me a Temple        | 153  | Song Book |
-| September | We'll Bring the World His Truth  | 172  | Song Book |
+| April     | ???                              |      | Extra     |
+| May       | When I Am Baptized               | 103  | Hymn Book |
+| June      | Nephi's Courage                  | 120  | Song Book |
+| July      | The Wise Man and the Foolish Man | 281  | Song Book |
+| August    | I'm Trying to Be like Jesus      |  78  | Song Book |
