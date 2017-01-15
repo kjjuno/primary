@@ -20,8 +20,8 @@ Singing Time - Jan 15, 2017
 Ring Around My Finger
 ---------------------
 
-> `Verse 1`
-> This ring around my Finger With letter, C.T.R
-> Reminds me that I want to choose the right
-> And so I make a promise to give the Lord my heart,
+> `Verse 1`  
+> This ring around my finger With letters, C.T.R  
+> Reminds me that I want to choose the right  
+> And so I make a promise to give the Lord my heart,  
 > And show my love by walking in the Light.
